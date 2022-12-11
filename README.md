@@ -12,5 +12,5 @@ make speller
 > Note [dictionary] is optional. If you omit this, the program will use dictionaries/large by default.
 ### Sample command:
 ```
-./speller texts/lalaland.txt
+./speller dictionaries/small texts/lalaland.txt
 ```
