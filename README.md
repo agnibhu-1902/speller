@@ -1,5 +1,5 @@
 # speller
-Checks a file for misspelled words using a hash table.
+Checks a text file for misspelled words using a hash table.
 ### How to compile?
 > Make sure 'clang' and 'make' are installed.
 ```
